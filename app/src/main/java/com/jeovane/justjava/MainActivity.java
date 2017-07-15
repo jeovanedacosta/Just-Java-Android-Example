@@ -37,6 +37,7 @@ public class MainActivity extends AppCompatActivity {
         displayPrice(this.quantity * this.price);
     }
 
+
     /**
      * This method displays the given quantity value on the screen.
      */
